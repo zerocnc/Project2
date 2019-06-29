@@ -12,3 +12,16 @@
      height: 100%;
      width: 100%;
 }
+
+.profilePic{
+     border-radius: 50%;
+}
+
+app-user-info h3{
+     color: red;
+}
+
+app-user-info no-pad{
+     margin-right: 0;
+     margin-left: 0;
+}
